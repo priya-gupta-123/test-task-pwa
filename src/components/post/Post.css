@@ -1,0 +1,40 @@
+.post-card {
+	width: 60%;
+}
+.post-card-click {
+	width: 60%;
+	height: 60%;
+}
+.post-img {
+	max-width: auto;
+	width: 60%;
+	height: 60%;
+	border-radius: 50%;
+}
+.post-button {
+	background-color: black;
+	color: 'white';
+	cursor: pointer;
+    float: right;
+    border:none;
+	/* border-radius: 8px; */
+}
+.post-button:hover {
+	background-color: black;
+	color: 'white';
+	cursor: pointer;
+    float: right;
+    border:none;
+	/* border-radius: 8px; */
+}
+.post-button:focus {
+	background-color: black;
+	color: 'white';
+	cursor: pointer;
+    float: right;
+    border:none;
+	/* border-radius: 8px; */
+}
+
+.profileImg {width: 60%; height: 0; padding: 0 0 60%; background-position: center center; background-repeat: no-repeat; background-size: cover; border-radius: 100%; display: inline-block;}
+.profileImg img {visibility: hidden; opacity: 0; }

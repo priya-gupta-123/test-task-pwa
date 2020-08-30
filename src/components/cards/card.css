@@ -1,0 +1,42 @@
+.imageStack{
+    box-shadow: 0 4px 19px 0 rgba(0, 0, 0, 0.2), 0 6px 200px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    position: relative;
+    position: relative;
+    width: 100%;
+    max-width: 300px;
+}
+.imageStack img{
+    width:300px;
+    height:300px;
+    max-width: 300px;
+    max-height: 300px;
+    position: relative;
+}
+.leftbtn{
+    position: absolute;
+    left: 0px;
+    float: right;
+    width: 150px;
+    height: 300px;
+    opacity: 0;
+}
+
+.rightbtn{
+    position: absolute;
+    right: 0px;
+    width: 150px;
+    height: 300px; 
+    opacity: 0;  
+}
+.container{
+    position: relative;
+    float: left;
+    padding: 20px;
+    width: 350px;
+    border-radius: 3%;
+    height: auto;
+}
+.imageStack img {height: auto; }
+.SlideImages {width: 100%; padding: 0 0 50%;  background-position: center center; background-repeat: no-repeat; background-size: cover;}
+.SlideImages img {opacity: 0; visibility: hidden;}

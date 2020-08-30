@@ -1,0 +1,55 @@
+.logo{
+    justify-content: flex-start;
+}
+.logo img{
+    width: 280px;
+    padding-left: 100px;
+    float: left;
+}
+.para {
+    font-size: 17px;
+    line-height: 27px;
+    margin-bottom: 0;
+    text-align: left;
+    padding: 50px 200px 20px 200px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.loginform{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.loginGroup{
+    display: flex;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.loginGroup label{
+    position: absolute;
+    left: 20%;
+    margin-right: 20px;
+    float: left;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.input{
+    background-color: #b5f2b3;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 5px;
+}
+.btn{
+    background-color: #2FB53D;
+    width: 40%;
+    border-radius: 50px 50px 50px 50px / 50px 50px 50px 50px;
+    color: white;
+    text-decoration-style: solid;
+}
+.btn:hover{
+    background-color: #1D9129;
+    color: white;
+}
+
+
+.logo img {padding: 0%; display: inline-block;}

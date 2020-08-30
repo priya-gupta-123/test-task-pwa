@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea131ef9.chunk.css",
+    "main.js": "/static/js/main.54a40e89.chunk.js",
+    "main.js.map": "/static/js/main.54a40e89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.a09d231f.chunk.css": "/static/css/2.a09d231f.chunk.css",
+    "static/js/2.7c027d97.chunk.js": "/static/js/2.7c027d97.chunk.js",
+    "static/js/2.7c027d97.chunk.js.map": "/static/js/2.7c027d97.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d858339244ff533d7fdfccc481edac44.js": "/precache-manifest.d858339244ff533d7fdfccc481edac44.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a09d231f.chunk.css.map": "/static/css/2.a09d231f.chunk.css.map",
+    "static/css/main.ea131ef9.chunk.css.map": "/static/css/main.ea131ef9.chunk.css.map",
+    "static/js/2.7c027d97.chunk.js.LICENSE.txt": "/static/js/2.7c027d97.chunk.js.LICENSE.txt",
+    "static/media/image1.jpg": "/static/media/image1.120e0e82.jpg",
+    "static/media/image2.webp": "/static/media/image2.0ce06356.webp",
+    "static/media/image3.jpg": "/static/media/image3.53f3dd9b.jpg",
+    "static/media/logo.jpg": "/static/media/logo.0cce34eb.jpg",
+    "static/media/milky-way-starry-sky-night-sky-star-956981.webp": "/static/media/milky-way-starry-sky-night-sky-star-956981.19e1a70d.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.a09d231f.chunk.css",
+    "static/js/2.7c027d97.chunk.js",
+    "static/css/main.ea131ef9.chunk.css",
+    "static/js/main.54a40e89.chunk.js"
+  ]
+}
